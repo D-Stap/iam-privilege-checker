@@ -42,3 +42,4 @@ FINDING: High Risk: action 'iam:*' matches risky pattern
 
 Scan complete.
 ```
+<img width="664" height="392" alt="Screenshot 2025-11-19 at 21 57 20" src="https://github.com/user-attachments/assets/9726ca04-6487-4458-af19-73d230ac54d5" />
