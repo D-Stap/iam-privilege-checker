@@ -10,7 +10,7 @@
 
 A small, focused command-line tool for statically analyzing AWS IAM policy JSON.
 It helps detect wildcard permissions and other high-risk patterns so you can
-catch and remediate dangerous policies before they reach production.
+catch and remediate dangerous policies before they reach production
 
 Why this matters
 Overly permissive IAM policies are a leading cause of cloud security incidents.
